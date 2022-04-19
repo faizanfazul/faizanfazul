@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faizanfazul.
-- 👀 I’m interested in web.
-- 🌱 I’m currently learning.
-- 📫 If you want to reach me👉MY Email Address is:faizanfazul6@gmail.com
+Hi, I’m @faizanfazul but you can call me only Faizan.
+I’m interested in Web Development.
+I’m currently learning.
+Email Address:faizanfazul6@gmail.com.
